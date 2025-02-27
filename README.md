@@ -1,8 +1,8 @@
 # Face Detection and Recognition in Python
 
-### This project is a comprehensive exploration of face detection and recognition techniques using Python. It leverages powerful libraries like OpenCV, dlib, and Pillow to create applications that can detect faces in images and videos, recognize known faces, predict age and gender, and interpret facial expressions—all in real-time!
+**This project is a comprehensive exploration of face detection and recognition techniques using Python. It leverages powerful libraries like OpenCV, dlib, and Pillow to create applications that can detect faces in images and videos, recognize known faces, predict age and gender, and interpret facial expressions—all in real-time!**
 
-**Face Detection from Images: Detect faces in static images and extract them as separate files.**
+Face Detection from Images: Detect faces in static images and extract them as separate files.
 
 Real-Time Face Detection: Stream video from your webcam and detect faces in real-time.
 
